@@ -128,6 +128,7 @@ scheme: Mist
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   微博: https://weibo.com/p/1005052819661964 || weibo
+  知乎: https://www.zhihu.com/people/dong-zhi-xia-zhi/activities || zhihu
   #GitHub: https://github.com/yourname || github
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
@@ -144,6 +145,7 @@ social_icons:
   icons_only: false
   transition: false
   微博: weibo
+  知乎: zhihu
 
 # Blog rolls
 links_icon: link

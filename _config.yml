@@ -81,3 +81,5 @@ deploy:
   type: git
   repo: https://github.com/ninayeung/ninayeung.github.io.git
   branch: master
+  name: ninayeung
+  email: ninayeung@163.com
